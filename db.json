@@ -1,0 +1,231 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "IOT competition",
+      "date": "Aug 28 2021",
+      "time": "10:00",
+      "location": "Nile Uni",
+      "description": "Let's have fun with arduino.",
+      "organizer": "Ahmed Eldeib",
+      "category": "education",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Ahmed Eldeib"
+        },
+        {
+          "id": "def456",
+          "name": "Youssef Elhusseiny"
+        },
+        {
+          "id": "ghi789",
+          "name": "Sara Ayman"
+        },
+        {
+          "id": "jkl101",
+          "name": "Sandra Emad"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "CalcIII class",
+      "date": "Nov 31 2021",
+      "time": "12:00",
+      "location": "Thomas Hall, Kenyon College",
+      "description": "We're going to study gradient vectors.",
+      "organizer": "Ahmed Eldeib",
+      "category": "education",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Judy Eric"
+        },
+        {
+          "id": "jkl101",
+          "name": "Ahmed Eldeib"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "National Adoption Day",
+      "date": "Dec 2 2022",
+      "time": "12:00",
+      "location": "Resala, Egypt",
+      "description": "Help children find new homes.",
+      "organizer": "Resala org",
+      "category": "housing",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Mira"
+        },
+        {
+          "id": "ghi789",
+          "name": "Mohamed Taha"
+        },
+        {
+          "id": "jkl101",
+          "name": "Ahmed Eldeib"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Friends Meeting",
+      "date": "Sept 28 2021",
+      "time": "10:00",
+      "location": "Cafe",
+      "description": "Let's meet.",
+      "organizer": "Ahmed Eldeib",
+      "category": "food",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Ahmed Eldeib"
+        },
+        {
+          "id": "def456",
+          "name": "Ahmed Elalfy"
+        },
+        {
+          "id": "ghi789",
+          "name": "Mohamed Galal"
+        },
+        {
+          "id": "jkl101",
+          "name": "Khalid Shefa"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Charity meeting at my high school",
+      "date": "Nov 12 2022",
+      "time": "12:00",
+      "location": "STEM ismailia, Cairo",
+      "description": "We're going to help children empower their education.",
+      "organizer": "Ahmed Eldeib",
+      "category": "community",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Raghad Ahmed"
+        },
+        {
+          "id": "jkl101",
+          "name": "Shrouk Saber"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Egypt Dev Meetup",
+      "date": "Dec 2 2021",
+      "time": "12:00",
+      "location": "AUC, Cairo",
+      "description": "Discuss new technologies.",
+      "organizer": "AUC members",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Mohamed Mahmoud"
+        },
+        {
+          "id": "ghi789",
+          "name": "Mostafa Hesham"
+        },
+        {
+          "id": "jkl101",
+          "name": "Ahmed Eldeib"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Econ Class",
+      "date": "Aug 20 2021",
+      "time": "10:00",
+      "location": "Thomas Hall, Kenyon College",
+      "description": "Study game theory.",
+      "organizer": "Prof, Currigan",
+      "category": "education",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Ahmed Eldeib"
+        },
+        {
+          "id": "def456",
+          "name": "Nifu Gregg"
+        },
+        {
+          "id": "ghi789",
+          "name": "Tori Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Tara Gordon"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Meditation",
+      "date": "Nov 22 2021",
+      "time": "12:00",
+      "location": "Kac, Colombus, Oh",
+      "description": "We're going to meditate to the sun.",
+      "organizer": "Prof, Dany",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "prpf. Dany"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Ali"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Phil Class",
+      "date": "Dec 23 2022",
+      "time": "12:00",
+      "location": "Mod B, Kenyon College",
+      "description": "Study Ethics.",
+      "organizer": "Prof.Adam Grand",
+      "category": "education",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Mira"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Kaly"
+        },
+        {
+          "id": "jkl101",
+          "name": "Yemen Fula"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category": "sustainability",
+      "organizer": "Dickson Gan",
+      "title": "Playing Soccer",
+      "description": "We'll do stuff",
+      "location": "Playground",
+      "date": "",
+      "time": "5:00",
+      "attendees": []
+    }
+  ]
+}
